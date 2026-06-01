@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
 
-<!--
-**CyberFox92/CyberFox92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Python Developer from Uruguay 🇺🇾
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Django
+- Flask
+- SQLite
+- HTML/CSS
+- Selenium
+- Git
+
+## Featured Projects
+
+### ⚽ A la Cancha
+Web application for sports field reservations.
+
+### 📦 Product Manager
+Desktop inventory management application built with Python.
+
+### 🤖 MapScrapperBing
+Automation tool using Selenium.
+
+## Currently Learning
+
+- REST APIs
+- Django Advanced
+- PostgreSQL
+- React
