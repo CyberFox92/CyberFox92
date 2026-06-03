@@ -29,6 +29,7 @@ Automation tool using Selenium.
 - Django Advanced
 - PostgreSQL
 - React
+- JavaScript
 
 ## Professional Background
 
